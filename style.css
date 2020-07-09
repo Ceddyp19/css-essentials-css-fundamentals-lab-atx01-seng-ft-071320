@@ -22,9 +22,7 @@ figcaption{
   font-size: 15px;
 }
 
-section #featured-property{
- text-align: center; 
-}
+
 
   #featured-property p{
   width: 800px;
@@ -33,4 +31,6 @@ section #featured-property{
   margin-right: auto;
 }
 
-
+#details{
+  display: block;
+}
