@@ -26,7 +26,7 @@ section #featured-property{
  text-align: center; 
 }
 
-section p{
+ p #featured-property{
  /* width: 800px;*/
   text-align: center;
 }
